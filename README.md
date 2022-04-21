@@ -28,5 +28,6 @@ E é isso que iremos abordar nesse projeto, o problema das fraudes em cartões d
 ### Outros Projetos Meus:
 
 * **[Panorama do COVID-19 no Brasil e no Mundo](https://github.com/cunhajessica/Panorama_do_COVID_19)**
+* **[Como fazer um gráfico de linhas com Matplotlib](https://github.com/cunhajessica/Grafico_de_linhas_com_Matplotlib)**
 * **[Análise de dados do Airbnb - Amsterdam](https://github.com/cunhajessica/Analise_Airbnb_Amsterdam)**
 
