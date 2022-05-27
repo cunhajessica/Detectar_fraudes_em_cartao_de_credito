@@ -16,7 +16,7 @@ Dispondo de grandes volumes de dados como base histórica, um algoritmo de machi
 E é isso que iremos abordar nesse projeto, o problema das fraudes em cartões de crédito.
 
 
-[Projeto completo](https://github.com/cunhajessica/Detectar_fraudes_em_cartao_de_credito/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+[Projeto completo](https://github.com/cunhajessica/Detectar_fraudes_em_cartao_de_credito/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito_v2.ipynb)
 
 **Links:**
 
