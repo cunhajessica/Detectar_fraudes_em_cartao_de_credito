@@ -21,6 +21,7 @@ E é isso que iremos abordar nesse projeto, o problema das fraudes em cartões d
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
+* [Medium](https://medium.com/@jessicacunha.jsc/ia-na-detec%C3%A7%C3%A3o-de-fraudes-financeiras-ecf9cc4000d0)
 
 
 
